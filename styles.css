@@ -54,7 +54,7 @@ head {
 }
 .window-bg {
   height: 40vh;
-  background: url(./node_modules/bootstrap/images/pexels-pixabay-416320.jpg);
+  background: url(./images/pexels-pixabay-416320.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
