@@ -82,7 +82,7 @@ head {
 .clients {
   height: 100%;
   background: linear-gradient(rgba(5, 7, 12, 0.493), rgba(5, 7, 12, 0.329)),
-    url(./node_modules/bootstrap/images/pexels-thirdman-7651924.jpg);
+    url(./images/pexels-thirdman-7651924.jpg);
   background-size: cover;
   background-attachment: scroll;
   background-repeat: no-repeat;
